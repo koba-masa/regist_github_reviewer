@@ -1,0 +1,2 @@
+# regist_github_reviewer
+GitHubのレビュアーを登録するChrome拡張機能
